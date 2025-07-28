@@ -1,0 +1,4 @@
+venv/
+mlopsmini1.egg-info/
+logs/
+gcp-key.json
