@@ -9,7 +9,6 @@ A complete end-to-end MLOps pipeline implementing machine learning model deploym
 - **Cloud Platform**: Google Cloud Platform (GCP)
 - **Containerization**: Docker & Kubernetes
 - **Orchestration**: Kubeflow for ML workflows
-- **Monitoring**: Prometheus & Grafana
 - **Version Control**: Git with automated pipeline triggers
 
 ## 🏗️ Architecture
@@ -17,17 +16,7 @@ A complete end-to-end MLOps pipeline implementing machine learning model deploym
 - **Data Processing**: Automated data validation and preprocessing
 - **Model Training**: Automated model training with hyperparameter tuning
 - **Model Deployment**: Containerized model serving on Kubernetes
-- **Monitoring**: Real-time model performance monitoring
 - **CI/CD Pipeline**: Automated testing, building, and deployment
-
-## 📊 Features
-
-- Automated model training and validation
-- Containerized microservices architecture
-- Scalable deployment on GCP Kubernetes Engine
-- Continuous integration and deployment
-- Model performance monitoring and alerting
-- Infrastructure as Code (IaC)
 
 ## 🎯 Project Goals
 
